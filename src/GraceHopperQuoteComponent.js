@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import App from './App';
 
 export class GraceHopperQuoteComponent extends Component {
 	render() {
